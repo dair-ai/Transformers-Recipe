@@ -42,6 +42,8 @@ After the theory, it's important to test the knowledge. I typically prefer to un
 
 🔗 https://nlp.seas.harvard.edu/2018/04/03/attention.html
 
+([Google Colab](https://colab.research.google.com/drive/1xQXSv6mtAOLXxEMi8RvaW8TW-7bvYBDF) | [GitHub](https://github.com/harvardnlp/annotated-transformer))
+
 ![](/images/code.jpeg)
 
 *Figure source: https://nlp.seas.harvard.edu/2018/04/03/attention.html*
