@@ -8,8 +8,6 @@ I am aware that a lot of machine learning and NLP students and practitioners are
 
 To begin with, I have prepared a few links to materials that I used to better understand and implement transformer models from scratch.
 
-This recipe will also allow me to easily continue to update the study materials needed to learning about Transformers.
-
 ## 🧠 High-level Introduction
 First, try to get a very high-level introduction about transformers. Some references worth looking at:
 
