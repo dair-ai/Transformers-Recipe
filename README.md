@@ -2,7 +2,7 @@
 
 ![](/images/transformer.jpeg)
 
-Transformers have accelerated the development of new techniques and models for natural language processing (NLP) tasks. While it has mostly been used for NLP tasks, it is now seeing heavy adoption to address computer vision tasks as well. That makes it a very important concept to understand and be able to apply.
+Transformers have accelerated the development of new techniques and models for natural language processing (NLP) tasks. While it has mostly been used for NLP tasks, it is now seeing heavy adoption in other areas such as computer vision and reinforcement learning. That makes it one of the most important modern concepts to understand and be able to apply.
 
 I am aware that a lot of machine learning and NLP students and practitioners are keen on learning about transformers. Therefore, I have prepared this recipe of resources and study materials to help guide students interested in learning about the world of Transformers.
 
@@ -47,6 +47,8 @@ After the theory, it's important to test the knowledge. I typically prefer to un
 ![](/images/code.jpeg)
 
 *Figure source: https://nlp.seas.harvard.edu/2018/04/03/attention.html*
+
+If you are looking for in-depth implementations on some of the latest transformers, you might also find the Papers with Code methods [collection for Transformers](https://paperswithcode.com/methods/category/transformers) useful. 
 
 ## 📄 Attention Is All You Need
 This paper by Vaswani et al. introduced the Transformer architecture. Read it after you have a high-level understanding and want to get into the details. Pay attention to other references in the paper for diving deep.
