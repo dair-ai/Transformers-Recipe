@@ -13,6 +13,8 @@ To begin with, I have prepared a few links to materials that I used to better un
 ## 🧠 High-level Introduction
 First, try to get a very high-level introduction about transformers. Some references worth looking at:
 
+🔗 [Introduction to Transformer - Lecture Notes](https://www.notion.so/dair-ai/Introduction-to-Transformers-4b869c9595b74f72b088e5f2793ece80) (Elvis Saravia)
+
 🔗 [Transformers From Scratch](https://e2eml.school/transformers.html) (Brandon Rohrer)
 
 🔗 [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/) (AI Summer)
