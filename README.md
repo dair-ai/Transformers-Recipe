@@ -10,7 +10,7 @@ I am aware that a lot of machine learning and NLP students and practitioners are
 
 To begin with, I have prepared a few links to materials that I used to better understand and implement transformer models from scratch.
 
-## 🧠 High-level Introduction
+## High-level Introduction
 First, try to get a very high-level introduction about transformers. Some references worth looking at:
 
 🔗 [Introduction to Transformer - Lecture Notes](https://www.notion.so/dair-ai/Introduction-to-Transformers-4b869c9595b74f72b088e5f2793ece80) (Elvis Saravia)
@@ -21,17 +21,17 @@ First, try to get a very high-level introduction about transformers. Some refere
 
 🔗 [Deep Learning for Language Understanding](https://youtu.be/8zAP2qWAsKg) (DeepMind)
 
-## 🎨 The Illustrated Transformer
+## The Illustrated Transformer
 Jay Alammar's illustrated explanations are exceptional. Once you get that high-level understanding of transformers, you can jump into this popular detailed and illustrated explanation of transformers:
 
 🔗 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
-## 🔖 Technical Summary
+## Technical Summary
 At this point, you may be looking for a technical summary and overview of transformers. Lilian Weng's blog posts are a gem and provide concise technical explanations/summaries:
 
 🔗 [The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 
-## 👩🏼‍💻 Implementation
+## Implementation
 After the theory, it's important to test the knowledge. I typically prefer to understand things in more detail so I prefer to implement algorithms from scratch. For implementing transformers, I mainly relied on this tutorial:
 
 🔗 [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) | ([Google Colab](https://colab.research.google.com/drive/1xQXSv6mtAOLXxEMi8RvaW8TW-7bvYBDF) | [GitHub](https://github.com/harvardnlp/annotated-transformer))
@@ -40,12 +40,12 @@ After the theory, it's important to test the knowledge. I typically prefer to un
 
 If you are looking for in-depth implementations on some of the latest transformers, you might also find the Papers with Code methods [collection for Transformers](https://paperswithcode.com/methods/category/transformers) useful. 
 
-## 📄 Attention Is All You Need
+## Attention Is All You Need
 This paper by Vaswani et al. introduced the Transformer architecture. Read it after you have a high-level understanding and want to get into the details. Pay attention to other references in the paper for diving deep.
 
 🔗 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762v5.pdf)
 
-## 👩🏼‍💻 Applying Transformers
+## Applying Transformers
 After some time studying and understanding the theory behind transformers, you may be interested in applying them to different NLP projects or research. At this time, your best bet is the Transformers library by HuggingFace.
 
 🔗 [Transformers](https://github.com/huggingface/transformers)
