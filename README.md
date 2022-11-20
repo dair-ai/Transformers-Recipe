@@ -6,7 +6,7 @@ $$\operatorname{Attention}(Q, K, V)=\operatorname{softmax}\left(\frac{Q K^{T}}{\
 
 Transformers have accelerated the development of new techniques and models for natural language processing (NLP) tasks. While it has mostly been used for NLP tasks, it is now seeing heavy adoption in other areas such as computer vision and reinforcement learning. That makes it one of the most important modern concepts to understand and be able to apply.
 
-I am aware that a lot of machine learning and NLP students and practitioners are keen on learning about transformers. Therefore, I have prepared this recipe of resources and study materials to help guide students interested in learning about the world of Transformers.
+I am aware that a lot of machine learning and NLP students and practitioners are keen on learning about transformers. Therefore, I have prepared a study guide in the form of a list of resources and study materials to help guide students interested in learning about the world of Transformers.
 
 To begin with, I have prepared a few links to materials that I used to better understand and implement transformer models from scratch.
 
