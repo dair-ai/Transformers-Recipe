@@ -31,6 +31,8 @@ At this point, you may be looking for a technical summary and overview of transf
 
 🔗 [The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 
+🔗 [The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
+
 ## Implementation
 After the theory, it's important to test the knowledge. I typically prefer to understand things in more detail so I prefer to implement algorithms from scratch. For implementing transformers, I mainly relied on this tutorial:
 
