@@ -19,6 +19,8 @@ First, try to get a very high-level introduction about transformers. Some refere
 
 🔗 [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/) (AI Summer)
 
+🔗 [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+
 🔗 [Deep Learning for Language Understanding](https://youtu.be/8zAP2qWAsKg) (DeepMind)
 
 ## The Illustrated Transformer
