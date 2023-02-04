@@ -23,10 +23,14 @@ First, try to get a very high-level introduction about transformers. Some refere
 
 🔗 [Deep Learning for Language Understanding](https://youtu.be/8zAP2qWAsKg) (DeepMind)
 
-## The Illustrated Transformer
+## The Transformer Explained
 Jay Alammar's illustrated explanations are exceptional. Once you get that high-level understanding of transformers, you can jump into this popular detailed and illustrated explanation of transformers:
 
 🔗 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
+This next article also breaks down Transformers into its components, explaining and illustrating in detail what each part does:
+
+🔗 [Breaking Down the Transformer](https://aman.ai/primers/ai/transformers/)
 
 ## Technical Summary
 At this point, you may be looking for a technical summary and overview of transformers. Lilian Weng's blog posts are a gem and provide concise technical explanations/summaries:
