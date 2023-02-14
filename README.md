@@ -60,6 +60,12 @@ After some time studying and understanding the theory behind transformers, you m
 
 The Hugging Face Team has also published a new book on NLP with Transformers, so you might want to check that out [here](https://www.oreilly.com/library/view/natural-language-processing/9781098103231/).
 
+## Reading List on LLMs
+
+As a bonus, here is a great reading list on LLMs by Sebastian Raschka. 
+
+🔗 [Understanding Large Language Models -- A Transformative Reading List](https://github.com/huggingface/transformers)
+
 ---
 
 Feel free to suggest study material. In the next update, I am looking to add a more comprehensive collection of Transformer applications and papers. In addition, a code implementation for easy experimentation is coming as well. Stay tuned!
