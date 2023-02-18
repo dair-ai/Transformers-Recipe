@@ -23,6 +23,8 @@ First, try to get a very high-level introduction about transformers. Some refere
 
 🔗 [Deep Learning for Language Understanding](https://youtu.be/8zAP2qWAsKg) (DeepMind)
 
+🔗 [Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730v2) (Xavier Amatriain)
+
 ## The Transformer Explained
 Jay Alammar's illustrated explanations are exceptional. Once you get that high-level understanding of transformers, you can jump into this popular detailed and illustrated explanation of transformers:
 
