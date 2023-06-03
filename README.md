@@ -66,7 +66,7 @@ The Hugging Face Team has also published a new book on NLP with Transformers, so
 
 As a bonus, here is a great reading list on LLMs by Sebastian Raschka. 
 
-🔗 [Understanding Large Language Models -- A Transformative Reading List](https://github.com/huggingface/transformers)
+🔗 [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
 
 ---
 
